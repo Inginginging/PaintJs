@@ -1,2 +1,4 @@
 # PaintJs
-Painting board with vanilla Js
+
+Using
+1. Vanillas Js(Canvas)
